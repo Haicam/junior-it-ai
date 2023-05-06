@@ -1,7 +1,7 @@
 # Let's explore the 'Hello World' project in some of the most popular coding languages.
 
 You can find more details for this topic at
-https://www.juniorit.ai/resource/blog/hello-world-in-different-coding-languages
+https://juniorit.ai/resource/blog/hello-world-in-different-coding-languages
 
 1. Dart
 ```dart

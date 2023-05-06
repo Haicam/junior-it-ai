@@ -1,5 +1,5 @@
 # JuniorIT.AI 
-# The Code Repository of YouTube Channel
+# The Code Repository for YouTube Channel
 
 Website: https://JuniorIT.AI
 YouTube: https://www.youtube.com/@junior-it-ai
