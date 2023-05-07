@@ -6,41 +6,95 @@ https://juniorit.ai/resource/blog/hello-world-in-different-coding-languages
 1. Dart
 ```dart
 void main() {
+  String greeting = 'Hello, World!';
+  print(greeting);
   print('Hello, World!');
+  print('JuniorIT' + '.AI');
+
+  int num = 1234;
+  print(num);
+  print(1234);
+  print(12 + 34);
 }
 ```
 
 2. Javascript
 ```javascript
-let greeting = "Hello, World!";
+let greeting = 'Hello, World!';
 console.log(greeting);
+console.log('Hello, World!');
+console.log('JuniorIT' + '.AI');
+
+let num = 1234;
+console.log(num);
+console.log(1234);
+console.log(12 + 34);
 ```
 
 3. Typescript
 ```typescript
-let greeting:string = "Hello, World!";
+let greeting: string = 'Hello, World!';
 console.log(greeting);
+console.log('Hello, World!');
+console.log('JuniorIT' + '.AI');
+
+let num: number = 1234;
+console.log(num);
+console.log(1234);
+console.log(12 + 34);
 ```
 
 4. Python
 ```python
+greeting = 'Hello, World!'
+print(greeting)
 print('Hello, World!')
+print('JuniorIT' + '.AI')
+
+num = 1234
+print(num)
+print(1234)
+print(12 + 34)
 ```
 5. PHP
 ```php
-echo "Hello, World!";
+$greeting = 'Hello, World!';
+echo $greeting . "\n";
+echo 'Hello, World!' . "\n";
+echo 'JuniorIT' . '.AI' . "\n";
+
+$num = 1234;
+echo $num . "\n";
+echo 1234 . "\n";
+echo 12 + 34 . "\n";
 ```
 
 6. Swift
 ```swift
-print("Hello, world!")
+let greeting: String = "Hello, World!"
+print(greeting)
+print("Hello, World!")
+print("JuniorIT" + ".AI")
+
+let num: Int = 1234
+print(num)
+print(1234)
+print(12 + 34)
 ```
 
 7. Java
 ```java
 public class HelloWorld {
   public static void main(String[] args) {
+    String greeting = "Hello, World!";
+    System.out.println(greeting);
     System.out.println("Hello, World!");
+    System.out.println("JuniorIT" + ".AI");
+
+    int num = 1234;
+    System.out.println(num);
+    System.out.println(1234);
+    System.out.println(12 + 34);
   }
 }
 ```
@@ -48,21 +102,59 @@ public class HelloWorld {
 8. Kotlin
 ```kotlin
 fun main() {
+  val greeting: String = "Hello, World!"
+  println(greeting)
   println("Hello, World!")
+  println("JuniorIT" + ".AI")
+
+  val num: Int = 1234
+  println(num)
+  println(1234)
+  println(12 + 34)
 }
 ```
 
-9. C/C++
-```cpp
+9. C 
+```c
 #include <stdio.h>
 
 int main() {
-    printf("Hello, world!\n");
-    return 0;
+  char greeting[] = "Hello, World!";
+  printf("%s\n", greeting);
+  printf("Hello, World!\n");
+  printf("JuniorIT.Ai\n");
+
+  int num = 1234;
+  printf("%d\n", num);
+  printf("%d\n", 1234);
+  printf("%d\n", 12 + 34);
+
+  return 0;
 }
 ```
 
-10. Go
+10. C++
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+  string greeting = "Hello, World!";
+  cout << greeting << endl;
+  cout << "Hello, World!" << endl;
+  cout << "JuniorIT" << ".AI" << endl;
+
+  int num = 1234;
+  cout << num << endl;
+  cout << 1234 << endl;
+  cout << 12 + 34 << endl;
+
+  return 0;
+}
+```
+
+11. Go
 ```go
 package main
 
@@ -73,7 +165,7 @@ func main() {
 }
 ```
 
-11. React Framework (Typescript)
+12. React framework (Typescript)
 ```typescript
 import React, { useState, useEffect } from "react";
 
@@ -107,7 +199,7 @@ function App() {
 export default App;
 ```
 
-12. Flutter Framework (dart)
+13. Flutter framework (dart)
 ```dart
 
 import 'package:flutter/material.dart';
