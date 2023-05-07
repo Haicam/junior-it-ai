@@ -1,14 +1,13 @@
 # Let's explore the 'Hello World' project in some of the most popular coding languages.
 
-You can find more details for this topic at
-https://juniorit.ai/resource/blog/hello-world-in-different-coding-languages
-
-
 ### Objectives:
 
 * To learn the concept of Hello World project, which is the first project for beginners in any coding language
 * To know how to display strings or numbers on a computer's screen or console
 * To gain an impression of the most popular coding languages currently used by various projects and companies
+
+You can find more details for this topic at
+https://juniorit.ai/resource/blog/hello-world-in-different-coding-languages
 
 1. Dart
 ```dart
