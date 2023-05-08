@@ -160,7 +160,29 @@ int main() {
 }
 ```
 
-11. Go
+11. Objective-C
+```objective-c
+#import <Foundation/Foundation.h>
+
+int main(int argc, const char * argv[]) {
+    NSAutoreleasePool* pool = [[NSAutoreleasePool alloc] init];
+
+    NSString *greeting = @"Hello, World!";
+    NSLog(@"%@", greeting);
+    NSLog(@"Hello, World!");
+    NSLog(@"JuniorIT.AI");
+
+    int num = 1234;
+    NSLog(@"%d", num);
+    NSLog(@"%d", 1234);
+    NSLog(@"%d", 12 + 34);
+
+    [pool drain];
+    return 0;
+}
+```
+
+12. Go
 ```go
 package main
 
@@ -171,7 +193,7 @@ func main() {
 }
 ```
 
-12. React framework (Typescript)
+13. React framework (Typescript)
 ```typescript
 import React, { useState, useEffect } from "react";
 
@@ -205,7 +227,7 @@ function App() {
 export default App;
 ```
 
-13. Flutter framework (dart)
+14. Flutter framework (dart)
 ```dart
 
 import 'package:flutter/material.dart';
