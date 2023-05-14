@@ -145,15 +145,15 @@ int main() {
 #include <string>
 
 int main() {
-  string greeting = "Hello, World!";
-  std::cout << greeting << endl;
-  std::cout << "Hello, World!" << endl;
-  std::cout << "JuniorIT" << ".AI" << endl;
+  std::string greeting = "Hello, World!";
+  std::cout << greeting << std::endl;
+  std::cout << "Hello, World!" << std::endl;
+  std::cout << "JuniorIT" << ".AI" << std::endl;
 
   int num = 1234;
-  std::cout << num << endl;
-  std::cout << 1234 << endl;
-  std::cout << 12 + 34 << endl;
+  std::cout << num << std::endl;
+  std::cout << 1234 << std::endl;
+  std::cout << 12 + 34 << std::endl;
 
   return 0;
 }
