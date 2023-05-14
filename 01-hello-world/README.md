@@ -9,6 +9,9 @@
 You can find more details for this topic at
 https://juniorit.ai/resource/blog/hello-world-in-different-coding-languages
 
+Additionally, you can engage in online interactive practice through the following URL:
+https://juniorit.ai/resource/course/hello-world-in-different-coding-language-practice/
+
 1. Dart
 ```dart
 void main() {
