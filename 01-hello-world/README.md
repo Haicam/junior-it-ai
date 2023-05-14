@@ -143,18 +143,17 @@ int main() {
 ```cpp
 #include <iostream>
 #include <string>
-using namespace std;
 
 int main() {
   string greeting = "Hello, World!";
-  cout << greeting << endl;
-  cout << "Hello, World!" << endl;
-  cout << "JuniorIT" << ".AI" << endl;
+  std::cout << greeting << endl;
+  std::cout << "Hello, World!" << endl;
+  std::cout << "JuniorIT" << ".AI" << endl;
 
   int num = 1234;
-  cout << num << endl;
-  cout << 1234 << endl;
-  cout << 12 + 34 << endl;
+  std::cout << num << endl;
+  std::cout << 1234 << endl;
+  std::cout << 12 + 34 << endl;
 
   return 0;
 }
@@ -227,7 +226,7 @@ function App() {
 export default App;
 ```
 
-14. Flutter framework (dart)
+14. Flutter framework (Dart)
 ```dart
 
 import 'package:flutter/material.dart';
