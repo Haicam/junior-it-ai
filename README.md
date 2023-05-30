@@ -2,7 +2,7 @@
 # The Code Repository for YouTube Channel
 
 Website: https://JuniorIT.AI
-YouTube: https://www.youtube.com/@junior-it-ai
+YouTube Channel: https://www.youtube.com/@junior-it-ai
 
 1. [The Future of Coding Education: Hello World](01-hello-world)
 2. [Coding Syntax and Comments in Different Languages](02-coding-syntax-comments)
