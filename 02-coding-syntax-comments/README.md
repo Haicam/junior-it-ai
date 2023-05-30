@@ -20,8 +20,6 @@ In JavaScript/TypeScript, Dart, PHP, Python, Java, C++, Swift, Kotlin, Objective
 
 In JavaScript/TypeScript, Dart, PHP, Java, C/C++, Swift, Kotlin, Objective-C  and Golang, multi-line comments are enclosed between /* and */.
 
-> For demo purposes, the code below will be automatically added a main function if necessary when running.
-
 Dart
 ```dart
 // Single line comment
@@ -825,7 +823,6 @@ In all these languages, inside strings, spaces and new lines count as part of th
 
 JavaScript/TypeScript, Dart, PHP, Java, Swift, Kotlin, C/C++, Objective-C and Golang use curly braces {} to group related lines of code together. These grouped lines, called code blocks, are often used in functions, loops, or conditionals.
 
-> For demo purposes, the code below will be automatically added a main function if necessary when running.
 
 Dart
 ```dart
