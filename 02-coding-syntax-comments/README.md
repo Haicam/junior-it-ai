@@ -1366,7 +1366,7 @@ func main() {
 
 These guidelines help to make your code cleaner and more understandable. Remember to also check any style guides related to your specific programming language.
 
-## 8. Other languages
+## 8. AI Prompts to learn other languages
 
 - "Using code examples to explain Ruby language's syntax: white spaces, line breaks, comments and code block etc."
 - "Using code examples to explain Rust language's syntax: white spaces, line breaks, comments and code block etc."
