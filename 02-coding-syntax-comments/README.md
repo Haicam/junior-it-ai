@@ -8,7 +8,7 @@
 
 
 You can find JuniorIT.AI's interactive content for this topic at
-https://www.juniorit.ai/resource/blog/coding-syntax-and-comments-in-different-languages
+https://juniorit.ai/resource/blog/coding-syntax-and-comments-in-different-languages
 
 ## 1. Using Comments in Different Programming Languages
 
