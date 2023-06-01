@@ -1251,6 +1251,8 @@ print(single_quotes_string)
 
 In languages like Java, Kotlin, C/C++, Objective-C, and Swift, and Golang strings are typically defined using double quotes. Single quotes are used to define character literals in Java, Kotlin, C/C++ and Objective-C.
 
+In Swift, single quotes are not used for anything and double quotes can also be used for a character literal.
+
 In Go, character literals are represented using single quotes ('). However, Go does not have a dedicated character type like some other programming languages. Instead, characters in Go are represented using their corresponding Unicode code points, which are integer values.
 
 java
@@ -1322,7 +1324,9 @@ Swift
 let doubleQuotesString = "This is a string defined using double quotes."
 print(doubleQuotesString)
 
-// Single quotes are used for character literals
+// Single quotes are not used for anything in Swift
+
+// Double quotes can be used for a character literal
 let singleQuotesChar: Character = "A"
 print(singleQuotesChar)
 
