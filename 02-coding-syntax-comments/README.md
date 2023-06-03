@@ -420,9 +420,9 @@ fun main() {
 ```
 Java
 ```java
-// Define a public class. In Java, every application must contain a main class 
+// Define a public class. In Java, every application must contain at least one class 
 // that wraps up the main function.
-public class Main {
+public class HelloWorld {
 
     // Define the main function. The String array (String[]) parameter is used for command line arguments.
     public static void main(String[] args) {
