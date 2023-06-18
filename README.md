@@ -12,6 +12,8 @@ At JuniorIT.AI, we have built a coding playground for you, you can start to lear
 
 JuniorIT.AI’s playground URL is https://juniorit.ai/playground
 
+Visual Studio Code extension: [ChatGPT Code Assistant by JuniorIT.AI](https://marketplace.visualstudio.com/items?itemName=JuniorIT-AI.vscode-juniorit)
+
 Wish your best and good luck in your coding journey.
 
 JuniorIT.AI
